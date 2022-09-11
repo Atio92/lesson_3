@@ -1,0 +1,21 @@
+div{
+	color: rgb(58, 58, 58);
+}
+p.gray, .grey{
+	color: grey;
+}
+.red{
+	color: red;
+}
+.blue, .bottom{
+	color: blue;
+}
+span.orange, .orange{
+	color: orange;
+}
+#rank, #work, #crew, p.black{
+	color: black
+}
+.two.classes{
+	color: blueviolet;
+}
